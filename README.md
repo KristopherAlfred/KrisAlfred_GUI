@@ -70,6 +70,8 @@ python basic_registration_form.py
 
 ![Basic Registration Form 2](screenshots/basic_form_2.png)
 
+![Basic Registration Form Error State](screenshots/basic_form_error.png)
+
 ## Form Fields (Both Versions)
 
 - Email Address
