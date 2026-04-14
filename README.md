@@ -64,6 +64,10 @@ python registration_form.py
 python basic_registration_form.py
 ```
 
+## Advanced Version Screenshot
+
+![Advanced Registration Form](screenshots/advanced_form.png)
+
 ## Basic Version Screenshots
 
 ![Basic Registration Form 1](screenshots/basic_form_1.png)
