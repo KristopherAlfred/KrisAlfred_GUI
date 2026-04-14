@@ -64,6 +64,10 @@ python registration_form.py
 python basic_registration_form.py
 ```
 
+## Basic Version Screenshot
+
+![Basic Registration Form](screenshots/basic_form.png)
+
 ## Form Fields (Both Versions)
 
 - Email Address
